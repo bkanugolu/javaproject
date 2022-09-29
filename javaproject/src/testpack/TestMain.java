@@ -6,7 +6,7 @@ public class TestMain {
 		
 		System.out.println("Welcome to git");
 		System.out.println("Added a line");
-
+		System.out.println("Added a line in new-branch");
 	}
 
 }
